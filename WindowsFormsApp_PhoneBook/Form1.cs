@@ -16,5 +16,11 @@ namespace WindowsFormsApp_PhoneBook
 		{
 			InitializeComponent();
 		}
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+			Form2 q = new Form2();
+			q.Show();
+		}
 	}
 }
