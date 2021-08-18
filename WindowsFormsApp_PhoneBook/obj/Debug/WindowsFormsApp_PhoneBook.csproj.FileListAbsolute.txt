@@ -1,0 +1,11 @@
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\bin\Debug\WindowsFormsApp_PhoneBook.exe.config
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\bin\Debug\WindowsFormsApp_PhoneBook.exe
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\bin\Debug\WindowsFormsApp_PhoneBook.pdb
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.csproj.AssemblyReference.cache
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.Form1.resources
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.Form2.resources
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.Properties.Resources.resources
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.csproj.GenerateResource.cache
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.csproj.CoreCompileInputs.cache
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.exe
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.pdb
