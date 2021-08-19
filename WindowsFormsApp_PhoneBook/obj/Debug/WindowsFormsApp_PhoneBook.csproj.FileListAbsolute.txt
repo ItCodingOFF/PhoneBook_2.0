@@ -8,3 +8,4 @@ D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\
 D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.csproj.CoreCompileInputs.cache
 D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.exe
 D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.pdb
+D:\WIndowsFormsC#\WindowsFormsApp_PhoneBook\WindowsFormsApp_PhoneBook\obj\Debug\WindowsFormsApp_PhoneBook.csproj.AssemblyReference.cache

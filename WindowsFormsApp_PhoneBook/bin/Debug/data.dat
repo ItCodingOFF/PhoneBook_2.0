@@ -1,2 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
-<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd" />
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <PhoneBook>
+    <fullname>fgdfgdfgdf</fullname>
+    <phone>9090909090</phone>
+    <ID>-1</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <fullname>alex</fullname>
+    <phone>+749493434</phone>
+    <address>2343</address>
+    <category>Friend</category>
+    <ID>-8</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <ID>-9</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <fullname>9090090</fullname>
+    <phone>90-90-90-
+</phone>
+    <ID>-10</ID>
+  </PhoneBook>
+</DataSet1>
